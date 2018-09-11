@@ -1,0 +1,17 @@
+{
+    "todos":[
+        {
+            "bandName": "Queen",
+            "gender": "Classic Rock",
+            "description": "Queen are a British rock band that formed in London in 1970. Their classic line-up was Freddie Mercury (lead vocals, piano), Brian May (lead guitar, vocals), Roger Taylor (drums, vocals), and John Deacon (bass guitar).",
+            "image": "low"
+        },
+        {
+            "bandName": "Metallica",
+            "gender": "Trash Metal",
+            "description": "Metallica is an American heavy metal band. The band was formed in 1981 in Los Angeles, California by drummer Lars Ulrich and vocalist/guitarist James Hetfield, and has been based in San Francisco, California for most of its career. ",
+            "image": "medium"
+        }
+        
+    ]
+}
